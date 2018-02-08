@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "CBLKLM04.CBL", "CBLKLM04.CBL\CBLKLM04.CBL.cblproj", "{C3EC6463-8447-44EA-9292-BE9C62EE91A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3EC6463-8447-44EA-9292-BE9C62EE91A5}.Debug|x86.ActiveCfg = Debug|x86
+		{C3EC6463-8447-44EA-9292-BE9C62EE91A5}.Debug|x86.Build.0 = Debug|x86
+		{C3EC6463-8447-44EA-9292-BE9C62EE91A5}.Release|x86.ActiveCfg = Release|x86
+		{C3EC6463-8447-44EA-9292-BE9C62EE91A5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C970E95C-4F4F-4BD6-B882-A24FF8B6292A}
+	EndGlobalSection
+EndGlobal
